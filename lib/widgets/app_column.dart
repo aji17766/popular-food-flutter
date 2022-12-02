@@ -26,13 +26,13 @@ class AppColumn extends StatelessWidget {
               SmallText(text: '4.5'),
               SizedBox(width: 10,),
               SmallText(text: '1287'),
-              SizedBox(width: 10,),
+              //SizedBox(width: 10,),
               SmallText(text: 'comments'),
             ],
           ),
           SizedBox(height: Dimensions.height10,),
           Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+           mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               IconAndTextWidget(icon: Icons.circle_sharp,
                   text: 'Normal',

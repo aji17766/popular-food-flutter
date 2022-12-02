@@ -105,7 +105,7 @@ class PopularFoodDetail extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           Container(
-            padding: EdgeInsets.only(left: Dimensions.width20,
+            padding: EdgeInsets.only(left: Dimensions.width15,
                 right: Dimensions.width20,
                 top: Dimensions.height20,
                 bottom: Dimensions.height20),
